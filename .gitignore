@@ -34,3 +34,6 @@ src
 .cache
 
 MUJOCO_LOG.TXT
+
+run.sh
+setup-mujoco-private.sh
